@@ -1,5 +1,5 @@
 # Calculator
-This is a calculator application developed in java with swing. Download jar file to see it.
+This is a calculator application developed in java with swing. Download jar file to see it working!
 
 
 
